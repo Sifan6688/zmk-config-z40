@@ -1,0 +1,8 @@
+file_format: "1"
+id: z40
+name: z40
+type: shield
+url: https://github.com/Sifan6688
+requires: [pro_micro]
+features:
+  - keys
