@@ -65,6 +65,11 @@
             bindings = <&kp LSHIFT>;
             key-positions = <29 28>;
         };
+
+        k {
+            bindings = <&bt BT_CLR>;
+            key-positions = <22 18>;
+        };
     };
 
     keymap {
